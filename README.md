@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Sierra Perez (she/her) 👋
+
+I'm a PhD candidate at Indiana University and a plant commmunity ecologist. I study the aspects of grassland communities that influence resilience to human-driven global changes. 🌱
 
 <!--
 **sbperez/sbperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
