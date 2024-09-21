@@ -1,6 +1,13 @@
-## Hi there, I'm Sierra Perez (she/her) 👋
+### Hey there!
 
-I'm a PhD candidate at Indiana University and a plant commmunity ecologist. I study the aspects of grassland communities that influence resilience to human-driven global changes. 🌱
+* I'm a plant community ecologist interested in how plant communities and their associated ecosystem functions are impacted by human-driven global changes.
+* I currently study the aspects of temperate grassland communities that promote global change resilience and acclimation using long-term data from [KBS LTER](https://lter.kbs.msu.edu) and [Cedar Creek LTER](https://cedarcreek.umn.edu).
+* I'm wrapping up my doctorate, and I'm excited to pursue job opportunities that bridge the gap between basic and applied research to address climate change adaptation!
+
+#### Education
+* Ph.D. Evolution, Ecology & Behavior — Indiana University
+* M.S. Ecology, Evolution & Conservation Biology — University of Illinois, Urbana-Champaign
+* B.A. Geology — Bryn Mawr College
 
 <!--
 **sbperez/sbperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
