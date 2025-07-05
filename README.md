@@ -1,7 +1,7 @@
 ### Hey there!
 
 * I'm a postdoc at the [Southeast Climate Adaptation Science Center (SE CASC)](https://secasc.ncsu.edu) working on synthesizing the impacts of extreme, compounding events throughout the Southeast.
-* I'm a plant community ecologist by training, and I'm broadly interested in exploring how plant communities and their associated ecosystem functions are impacted by human-driven global changes, particularly through data synthesis.
+* I'm a plant community ecologist by training, and I'm broadly interested in how plant communities and their associated ecosystem functions are impacted by human-driven global changes, particularly through data synthesis.
 
 <!--
 **sbperez/sbperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
